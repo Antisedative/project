@@ -20,4 +20,3 @@ personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
 
-// сделать комит на гите 
